@@ -1,0 +1,508 @@
+{
+ "easy": [
+  {
+   "question": "1. What is used to define a method in Java?",
+   "options": {
+    "A": "method",
+    "B": "function",
+    "C": "def",
+    "D": "void"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "2. Which keyword is used to define a class in Java?",
+   "options": {
+    "A": "define",
+    "B": "class",
+    "C": "def",
+    "D": "void"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "3. What symbol is used for single-line comments in Java?",
+   "options": {
+    "A": "//",
+    "B": "/* */",
+    "C": "#",
+    "D": "--"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "4. Which of the following is not a valid Java data type?",
+   "options": {
+    "A": "int",
+    "B": "string",
+    "C": "boolean",
+    "D": "double"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "5. How do you declare a variable in Java?",
+   "options": {
+    "A": "var x;",
+    "B": "x = 5;",
+    "C": "int x = 5;",
+    "D": "x = int;"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "6. What is the output of 10 % 3?",
+   "options": {
+    "A": "3",
+    "B": "1",
+    "C": "0",
+    "D": "10"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "7. Which keyword is used to create a new instance of a class in Java?",
+   "options": {
+    "A": "create",
+    "B": "new",
+    "C": "instance",
+    "D": "allocate"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "8. What is the output of 'Hello'.length()?",
+   "options": {
+    "A": "Hello",
+    "B": "5",
+    "C": "6",
+    "D": "Error"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "9. Which loop is guaranteed to execute at least once in Java?",
+   "options": {
+    "A": "for",
+    "B": "while",
+    "C": "do-while",
+    "D": "foreach"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "10. What method is used to convert a string to an integer in Java?",
+   "options": {
+    "A": "toInt()",
+    "B": "parseInt()",
+    "C": "convert()",
+    "D": "castToInt()"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "11. What is the output of 2 + 2?",
+   "options": {
+    "A": "4",
+    "B": "22",
+    "C": "2",
+    "D": "None of the above"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "12. What keyword is used to declare a constant in Java?",
+   "options": {
+    "A": "final",
+    "B": "const",
+    "C": "var",
+    "D": "let"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "13. Which data type is used to store a single character in Java?",
+   "options": {
+    "A": "char",
+    "B": "character",
+    "C": "string",
+    "D": "int"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "14. What is the output of true && false?",
+   "options": {
+    "A": "true",
+    "B": "false",
+    "C": "Error",
+    "D": "Null"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "15. Which of the following is not a valid arithmetic operator in Java?",
+   "options": {
+    "A": "+",
+    "B": "*",
+    "C": "//",
+    "D": "%"
+   },
+   "answer": "C"
+  }
+ ],
+ "medium": [
+  {
+   "question": "16. What is the output of Math.pow(2, 3)?",
+   "options": {
+    "A": "5",
+    "B": "8",
+    "C": "9",
+    "D": "16"
+   },
+   "answer": "D"
+  },
+  {
+   "question": "17. How do you check if a string contains another substring in Java?",
+   "options": {
+    "A": "contains()",
+    "B": "has()",
+    "C": "includes()",
+    "D": "substring()"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "18. Which method is used to convert a string to uppercase in Java?",
+   "options": {
+    "A": "toUpperCase()",
+    "B": "toUpper()",
+    "C": "toUpperCaseCase()",
+    "D": "upperCase()"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "19. What is the output of 'Java'.indexOf('v')?",
+   "options": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "Error"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "20. Which statement is used to skip the current iteration of a loop in Java?",
+   "options": {
+    "A": "skip",
+    "B": "skipIteration",
+    "C": "continue",
+    "D": "skipLoop"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "21. What is the output of 5 / 2?",
+   "options": {
+    "A": "2.5",
+    "B": "2",
+    "C": "2.0",
+    "D": "2.2"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "22. Which of the following is not a Java keyword?",
+   "options": {
+    "A": "this",
+    "B": "super",
+    "C": "self",
+    "D": "public"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "23. What is the default value of a boolean variable in Java?",
+   "options": {
+    "A": "0",
+    "B": "false",
+    "C": "true",
+    "D": "null"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "24. What is the output of the code snippet? \nint x = 5; \nSystem.out.println(x++);",
+   "options": {
+    "A": "5",
+    "B": "6",
+    "C": "4",
+    "D": "Compilation Error"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "25. What is the output of the code snippet? \nint x = 10; \nint y = 2; \nSystem.out.println(x % y);",
+   "options": {
+    "A": "0",
+    "B": "2",
+    "C": "5",
+    "D": "Compilation Error"
+   },
+   "answer": "A"
+  }
+ ],
+ "hard": [
+  {
+   "question": "26. What does the 'break' statement do in Java?",
+   "options": {
+    "A": "Exits the loop",
+    "B": "Starts the next iteration of the loop",
+    "C": "Throws an exception",
+    "D": "None of the above"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "27. Which of the following is not a valid access modifier in Java?",
+   "options": {
+    "A": "public",
+    "B": "private",
+    "C": "protected",
+    "D": "global"
+   },
+   "answer": "D"
+  },
+  {
+   "question": "28. What is the output of the code snippet? \nint x = 5; \nSystem.out.println(x > 3 ? x < 10 ? 10 : 5 : 3);",
+   "options": {
+    "A": "3",
+    "B": "5",
+    "C": "10",
+    "D": "Error"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "29. Which of the following statements is used to handle exceptions in Java?",
+   "options": {
+    "A": "try-catch",
+    "B": "if-else",
+    "C": "switch-case",
+    "D": "while"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "30. What is the output of the code snippet? \nint[] arr = {1, 2, 3}; \nSystem.out.println(arr[3]);",
+   "options": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "ArrayIndexOutOfBoundsException"
+   },
+   "answer": "D"
+  },
+  {
+   "question": "31. What is the output of 10 / 0?",
+   "options": {
+    "A": "0",
+    "B": "10",
+    "C": "Infinity",
+    "D": "Error"
+   },
+   "answer": "D"
+  },
+  {
+   "question": "32. Which keyword is used to create a thread in Java?",
+   "options": {
+    "A": "create",
+    "B": "new",
+    "C": "instance",
+    "D": "thread"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "33. What is the output of the code snippet? \nint x = 5; \nSystem.out.println(x += 3);",
+   "options": {
+    "A": "3",
+    "B": "8",
+    "C": "5",
+    "D": "Error"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "34. What is the output of the code snippet? \nString s1 = \"Hello\"; \nString s2 = \"World\"; \nSystem.out.println(s1 + s2);",
+   "options": {
+    "A": "Hello World",
+    "B": "HelloWorld",
+    "C": "\"Hello\" + \"World\"",
+    "D": "Error"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "35. Which of the following is not a valid way to initialize an array in Java?",
+   "options": {
+    "A": "{1, 2, 3}",
+    "B": "new int[]{1, 2, 3}",
+    "C": "int[] arr = {1, 2, 3};",
+    "D": "int[] arr = new int[3];"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "36. What is the output of the code snippet? \nString s = null; \nSystem.out.println(s.length());",
+   "options": {
+    "A": "0",
+    "B": "NullPointerError",
+    "C": "null",
+    "D": "Error"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "37. What is the output of the code snippet? \nint x = 5; \nSystem.out.println(x << 1);",
+   "options": {
+    "A": "5",
+    "B": "10",
+    "C": "2",
+    "D": "Error"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "38. What is the output of the code snippet? \nint x = 10; \nint y = 20; \nSystem.out.println(x != y);",
+   "options": {
+    "A": "true",
+    "B": "false",
+    "C": "Error",
+    "D": "Null"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "39. Which method is used to convert a string to a double in Java?",
+   "options": {
+    "A": "toDouble()",
+    "B": "parseDouble()",
+    "C": "convertToDouble()",
+    "D": "castToDouble()"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "40. What is the output of 5 > 3 ? 10 : 20;",
+   "options": {
+    "A": "5",
+    "B": "10",
+    "C": "20",
+    "D": "Error"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "41. Which of the following is not a valid way to create a thread in Java?",
+   "options": {
+    "A": "Extending the Thread class",
+    "B": "Implementing the Runnable interface",
+    "C": "Using the Executor framework",
+    "D": "Using the synchronized keyword"
+   },
+   "answer": "D"
+  },
+  {
+   "question": "42. What is the output of 2 * 3?",
+   "options": {
+    "A": "5",
+    "B": "6",
+    "C": "9",
+    "D": "10"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "43. What is the output of the code snippet? \nint x = 5; \nSystem.out.println(x >>= 1);",
+   "options": {
+    "A": "5",
+    "B": "10",
+    "C": "2",
+    "D": "Error"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "44. Which of the following statements is used to initialize an object in Java?",
+   "options": {
+    "A": "allocate",
+    "B": "initialize",
+    "C": "new",
+    "D": "create"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "45. What is the output of the code snippet? \nint[] arr = new int[3]; \nSystem.out.println(arr[0]);",
+   "options": {
+    "A": "0",
+    "B": "1",
+    "C": "NullPointerError",
+    "D": "Error"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "46. What is the output of the code snippet? \nString s = \"Java\"; \nSystem.out.println(s.equals(\"java\"));",
+   "options": {
+    "A": "true",
+    "B": "false",
+    "C": "Error",
+    "D": "Null"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "47. Which keyword is used to prevent method overriding in Java?",
+   "options": {
+    "A": "final",
+    "B": "abstract",
+    "C": "static",
+    "D": "private"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "48. What is the output of the code snippet? \nint x = 5; \nSystem.out.println(x++);",
+   "options": {
+    "A": "5",
+    "B": "6",
+    "C": "4",
+    "D": "Compilation Error"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "49. What is the output of the code snippet? \nint x = 5; \nSystem.out.println(x *= 3);",
+   "options": {
+    "A": "5",
+    "B": "8",
+    "C": "15",
+    "D": "Error"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "50. What is the output of the code snippet? \nString s = \"Java\"; \nSystem.out.println(s.substring(1, 3));",
+   "options": {
+    "A": "Jav",
+    "B": "ava",
+    "C": "Jav",
+    "D": "Error"
+   },
+   "answer": "B"
+  }
+ ]
+}

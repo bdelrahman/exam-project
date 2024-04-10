@@ -1,0 +1,458 @@
+{
+ "easy": [
+  {
+   "question": "1. What is 2 + 2?",
+   "options": {
+    "A": "3",
+    "B": "4",
+    "C": "5",
+    "D": "6"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "2. What is 5 * 3?",
+   "options": {
+    "A": "10",
+    "B": "15",
+    "C": "20",
+    "D": "25"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "3. What is 10 / 2?",
+   "options": {
+    "A": "3",
+    "B": "4",
+    "C": "5",
+    "D": "6"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "4. What is the square root of 16?",
+   "options": {
+    "A": "2",
+    "B": "4",
+    "C": "6",
+    "D": "8"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "5. What is 3^2?",
+   "options": {
+    "A": "6",
+    "B": "9",
+    "C": "12",
+    "D": "15"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "6. What is 20 - 7?",
+   "options": {
+    "A": "10",
+    "B": "12",
+    "C": "13",
+    "D": "15"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "7. What is 4 + 6 - 2?",
+   "options": {
+    "A": "6",
+    "B": "8",
+    "C": "10",
+    "D": "12"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "8. What is 15 * 2?",
+   "options": {
+    "A": "25",
+    "B": "30",
+    "C": "35",
+    "D": "40"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "9. What is 100 / 5?",
+   "options": {
+    "A": "10",
+    "B": "15",
+    "C": "20",
+    "D": "25"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "10. What is the cube of 3?",
+   "options": {
+    "A": "6",
+    "B": "9",
+    "C": "12",
+    "D": "27"
+   },
+   "answer": "D"
+  },
+  {
+   "question": "11. What is 18 - 9?",
+   "options": {
+    "A": "6",
+    "B": "8",
+    "C": "9",
+    "D": "10"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "12. What is 7 * 4?",
+   "options": {
+    "A": "24",
+    "B": "28",
+    "C": "30",
+    "D": "32"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "13. What is 144 / 12?",
+   "options": {
+    "A": "10",
+    "B": "11",
+    "C": "12",
+    "D": "13"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "14. What is 5 + 8 - 3?",
+   "options": {
+    "A": "9",
+    "B": "10",
+    "C": "11",
+    "D": "12"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "15. What is 9 squared?",
+   "options": {
+    "A": "18",
+    "B": "27",
+    "C": "36",
+    "D": "81"
+   },
+   "answer": "D"
+  }
+ ],
+ "medium": [
+  {
+   "question": "1.What is the value of x in the equation 2x + 5 = 15?",
+   "options": {
+    "A": "5",
+    "B": "7",
+    "C": "8",
+    "D": "10"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "2.What is the area of a rectangle with length 6 units and width 4 units?",
+   "options": {
+    "A": "12",
+    "B": "16",
+    "C": "20",
+    "D": "24"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "3.What is the perimeter of a square with side length 10 units?",
+   "options": {
+    "A": "30",
+    "B": "40",
+    "C": "50",
+    "D": "60"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "4.What is the volume of a cube with side length 3 units?",
+   "options": {
+    "A": "9",
+    "B": "18",
+    "C": "27",
+    "D": "36"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "5.What is the circumference of a circle with radius 5 units? (Use \u03c0 = 3.14)",
+   "options": {
+    "A": "31.4",
+    "B": "15.7",
+    "C": "47.1",
+    "D": "78.5"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "6.What is the slope of the line passing through the points (2, 5) and (4, 9)?",
+   "options": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "7.What is the value of 4! (factorial)?",
+   "options": {
+    "A": "12",
+    "B": "24",
+    "C": "36",
+    "D": "48"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "8.What is the sum of the first 10 positive integers?",
+   "options": {
+    "A": "45",
+    "B": "50",
+    "C": "55",
+    "D": "60"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "9.What is the next number in the sequence: 2, 5, 10, 17, ...?",
+   "options": {
+    "A": "24",
+    "B": "31",
+    "C": "38",
+    "D": "45"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "10.If 20% of a number is 40, what is the number?",
+   "options": {
+    "A": "100",
+    "B": "150",
+    "C": "200",
+    "D": "250"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "11.What is the value of 3^3?",
+   "options": {
+    "A": "9",
+    "B": "27",
+    "C": "81",
+    "D": "243"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "12.If a = 3 and b = 4, what is the value of \u221a(a^2 + b^2)?",
+   "options": {
+    "A": "5",
+    "B": "7",
+    "C": "8",
+    "D": "10"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "13.What is the area of a circle with radius 6 units? (Use \u03c0 = 3.14)",
+   "options": {
+    "A": "113.04",
+    "B": "113.1",
+    "C": "116.04",
+    "D": "120.84"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "14.What is the perimeter of a triangle with side lengths 5, 7, and 9 units?",
+   "options": {
+    "A": "21",
+    "B": "24",
+    "C": "26",
+    "D": "28"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "15.What is the value of log(1000) base 10?",
+   "options": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4"
+   },
+   "answer": "C"
+  }
+ ],
+ "hard": [
+  {
+   "question": "1. What is the derivative of x^2 with respect to x?",
+   "options": {
+    "A": "2x^2",
+    "B": "2x",
+    "C": "x",
+    "D": "1"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "2. What is the integral of sin(x) with respect to x?",
+   "options": {
+    "A": "cos(x) + C",
+    "B": "sin(x) + C",
+    "C": "1/cos(x) + C",
+    "D": "1/sin(x) + C"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "3. What is the limit of (1 + 1/n)^n as n approaches infinity?",
+   "options": {
+    "A": "0",
+    "B": "1",
+    "C": "e",
+    "D": "infinity"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "4. What is the value of i^2?",
+   "options": {
+    "A": "1",
+    "B": "-1",
+    "C": "i",
+    "D": "-i"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "5. What is the derivative of e^x with respect to x?",
+   "options": {
+    "A": "e",
+    "B": "x",
+    "C": "e^x",
+    "D": "1"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "6. What is the value of the sum (k=1 to infinity) of 1/k^2?",
+   "options": {
+    "A": "1",
+    "B": "\u03c0^2/6",
+    "C": "e",
+    "D": "2"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "7. What is the derivative of ln(x) with respect to x?",
+   "options": {
+    "A": "1/x",
+    "B": "x",
+    "C": "1",
+    "D": "0"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "8. What is the integral of e^(-x^2) with respect to x?",
+   "options": {
+    "A": "erf(x)",
+    "B": "e^(-x^2)/2",
+    "C": "\u03c0/2",
+    "D": "1/(2\u221a\u03c0)"
+   },
+   "answer": "D"
+  },
+  {
+   "question": "9. What is the derivative of cos(x) with respect to x?",
+   "options": {
+    "A": "sin(x)",
+    "B": "cos(x)",
+    "C": "-sin(x)",
+    "D": "-cos(x)"
+   },
+   "answer": "A"
+  },
+  {
+   "question": "10. What is the value of the integral (0 to \u03c0) of sin(x) dx?",
+   "options": {
+    "A": "0",
+    "B": "1",
+    "C": "\u03c0",
+    "D": "2\u03c0"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "11. What is the value of the sum (k=1 to infinity) of 1/k?",
+   "options": {
+    "A": "0",
+    "B": "1",
+    "C": "e",
+    "D": "infinity"
+   },
+   "answer": "D"
+  },
+  {
+   "question": "12. What is the integral of sec^2(x) with respect to x?",
+   "options": {
+    "A": "sec(x)",
+    "B": "tan(x)",
+    "C": "cot(x)",
+    "D": "csc(x)"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "13. What is the derivative of tan(x) with respect to x?",
+   "options": {
+    "A": "cos(x)",
+    "B": "sin(x)",
+    "C": "sec^2(x)",
+    "D": "csc^2(x)"
+   },
+   "answer": "C"
+  },
+  {
+   "question": "14. What is the value of lim(x -> 0) (sin(x)/x)?",
+   "options": {
+    "A": "0",
+    "B": "1",
+    "C": "\u03c0",
+    "D": "\u221e"
+   },
+   "answer": "B"
+  },
+  {
+   "question": "15. What is the value of lim(x -> \u221e) (1 + 1/x)^x?",
+   "options": {
+    "A": "0",
+    "B": "1",
+    "C": "e",
+    "D": "\u221e"
+   },
+   "answer": "C"
+  }
+ ]
+}
